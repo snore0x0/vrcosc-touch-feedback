@@ -1,0 +1,7 @@
+{
+    "package_id": "io.github.snore0x0.vrcosc.touchfeedback",
+    "display_name": "Touch Feedback",
+    "description": "Adds haptic feedback to VRChat avatar contact events using OSC. VRChat のアバター接触を OSC 経由の振動としてフィードバックします。",
+    "author": "snore0x0",
+    "version": "1.0.0"
+}
